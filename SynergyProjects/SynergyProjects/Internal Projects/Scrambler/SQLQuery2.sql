@@ -1,0 +1,1 @@
+﻿Select Name from Person.ContactType
